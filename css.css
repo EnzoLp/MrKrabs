@@ -1,0 +1,85 @@
+body{
+  background-image: url("crabe.png");
+  background-repeat: repeat;
+}
+
+.uncase {
+  height: 420px;
+  width: 1000px;
+background-color: white;
+border-radius: 10px;
+text-align: center;
+    padding: 40px;
+    margin: 30px auto;
+
+}
+
+.imgdeprofil{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.deuxcase {
+    height: 150px;
+    width: 1000px;
+display: flex;
+justify-content: space-around;
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+padding: 40px;
+margin: 30px auto;
+
+}
+
+.deuxcase1 {
+  padding: 10px;
+  margin: 30px auto;
+  display: inline-block;
+
+}
+
+.deuxcase2 {
+  padding: 10px;
+  margin: 30px auto;
+  display: inline-block;
+
+}
+
+.deuxcase3 {
+  padding: 10px;
+  margin: 30px auto;
+  display: inline-block;
+
+}
+
+.troiscase {
+
+  height: 350px;
+  width: 1000px;
+background-color: white;
+border-radius: 10px;
+text-align: center;
+    padding: 40px;
+    margin: 30px auto;
+
+}
+
+#bouton1 {
+  border-radius: 5px;
+  color: white;
+  background: black;
+  padding: 10px 13px;
+  text-decoration: none;
+}
+
+.rect1 {
+  display: flex;
+   justify-content: space-around;
+}
+
+.crabeicone {
+  display: flex;
+  justify-content: space-around;
+}
